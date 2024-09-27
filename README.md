@@ -1,4 +1,6 @@
 # imgtotext
+![Screenshot 2024-09-27 114638](https://github.com/user-attachments/assets/ad3f0bde-5db9-4678-a673-014cfca977b9)
+
 # Image to Text Annotation using Google Gemini
 
 This is a web application that allows users to upload an image and provide an optional text prompt. The application uses Google's Gemini Generative AI to generate textual annotations based on the input image and user prompt.
